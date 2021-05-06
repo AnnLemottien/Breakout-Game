@@ -8,8 +8,7 @@
 * [Inspiration](#inspiration)
 
 ## General info
-This website design was created while improving my practical skills in front-end web development.
-It is fully responsive.
+This Breakout 2D game was created while improving my practical skills in front-end web development during the "Web Design" training in which I participated.
 
 ## Screenshots
 ![breakout screenshot](1.jpg)
@@ -17,6 +16,8 @@ It is fully responsive.
 ## Technologies
 Project is created with:
 * JavaScript
+* HTML
+* CSS
 
 ## Status
 Project is _in progress_
